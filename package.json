@@ -1,9 +1,9 @@
 {
   "name": "tv-home",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "appName": "Início",
   "description": "Tela inicial estilo Apple TV — abre os apps direto.",
   "packageType": "app",
-  "appPath": "app/index.html",
+  "appPath": "app/home.html",
   "keys": []
 }
